@@ -1,6 +1,6 @@
 # Vue MOVIE WebApp
 
-基于 Vue(2.0) + vuex + vue-router + ES6 等开发一款移动端音乐 WebApp，UI 界面参考了安卓版的豆瓣电影、flex 布局适配常见移动端。
+基于 Vue(2.0) + vuex + vue-router + ES6 等开发一款移动端电影 WebApp，UI 界面参考了安卓版的豆瓣电影、flex 布局适配常见移动端。
 
 项目演示地址：[移动端MOVIE WebApp](https://2788.github.io/VMOVIE/dist/index.html#/main/inTheaters)
 
